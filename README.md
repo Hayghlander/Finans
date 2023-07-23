@@ -1,6 +1,6 @@
 # Finans
 
-]https://github.com/Hayghlander/Finans/blob/main/LICENSE
+https://github.com/Hayghlander/Finans/blob/main/LICENSE
 
 # Sobre o projeto
 

@@ -1,4 +1,4 @@
-# Finans
+# Clone do Spotify
 
 https://github.com/Hayghlander/Finans/blob/main/LICENSE
 
@@ -19,7 +19,6 @@ Interface de um site fictício criado durante aprendizados de Boostrap no curso 
 -HTML5
 -Bootstrap
 -CSS3
-
 
 # Autor
 

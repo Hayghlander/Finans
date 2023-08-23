@@ -1,7 +1,5 @@
 # Clone do Spotify
 
-https://github.com/Hayghlander/Finans/blob/main/LICENSE
-
 # Sobre o projeto
 
 Interface de um site fictício criado durante aprendizados de Boostrap no curso de desenvolvimento web na Udemy.

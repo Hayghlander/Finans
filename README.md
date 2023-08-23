@@ -1,4 +1,6 @@
-# Clone do Spotify
+# Finans
+
+https://github.com/Hayghlander/Finans/blob/main/LICENSE
 
 # Sobre o projeto
 
